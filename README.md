@@ -1,8 +1,19 @@
-﻿# reservas_hotel
-# Recuerden instalar la base de datos en su carpeta phpmyadmin y luego cambiar la conexion si es necesario en la carpeta modelos/conexion.php
+Reservas de Hotel
+¡Bienvenido a nuestro proyecto de reservas de hotel!
 
-en la carpeta vistas se encuentran todas las carpetas de la plantilla que pudieron observar
+Configuración inicial
+Antes de comenzar, asegúrate de realizar los siguientes pasos:
 
-En Xammp hay que hacer click en Config y luego ingresar a php.ini y buscar la linea que dice extension=gd  la vamos a encotnrar de la siguiente manera ;extension=gd hay que borrarle el ";" y luego guardar, esto es para que se pueda usar el plugin del carrucel de imagenes. 
+Instalación de la base de datos:
+Asegúrate de tener la base de datos instalada en tu phpMyAdmin. Si es necesario, modifica la conexión en modelos/conexion.php.
 
-si habían bajado el codigo previamente les recomiendo eliminar las cookies de su navegador para que actualice imagenes y demás 
+Configuración de la interfaz:
+En la carpeta "vistas", encontrarás todas las carpetas de la plantilla que estamos utilizando.
+
+Configuración de XAMPP:
+En XAMPP, accede a la configuración haciendo clic en "Config" y luego en "php.ini". Busca la línea que dice extension=gd y elimina el ";" para habilitar el plugin del carrusel de imágenes. Guarda los cambios.
+
+Consejos útiles
+Actualizar imágenes:
+Si has descargado el código previamente, te recomendamos eliminar las cookies de tu navegador para que las imágenes y otros elementos se actualicen correctamente.
+¡Esperamos que disfrutes explorando y utilizando nuestra aplicación de reservas de hotel! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o ponerte en contacto con nosotros.
